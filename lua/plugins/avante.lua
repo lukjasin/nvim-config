@@ -6,11 +6,11 @@ return {
     -- add any opts here
     -- for example
 
-    provider = "ollama",
-    ollama = {
-      endpoint = "127.0.0.1:11434",
-      model = "codellama:7b",
-    },
+    --provider = "ollama",
+    --ollama = {
+    --endpoint = "127.0.0.1:11434",
+    --model = "codellama:7b",
+    --},
     -- provider = "openai",
     -- openai = {
     --   endpoint = "https://api.openai.com/v1",
